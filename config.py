@@ -1,5 +1,5 @@
 ##Open API
-OPENAI_API_KEY = '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'
+OPENAI_API_KEY = 'YOUR-API-CODE'
 
 
 
