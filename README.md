@@ -1,5 +1,5 @@
 # AI Blog Writer with OpenAI GPT-3
-Create an AI blog writing tool with Open AI API. 
+Create an AI blog writing tool with GPT-3, DaVinci Engine. And automate your blog posts 
 
 # Get Started with this config file
 Create your OpenAI API key and add it to the config.py file
